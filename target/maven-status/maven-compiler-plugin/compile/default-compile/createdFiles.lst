@@ -1,0 +1,11 @@
+com\zagwork\risktype\configuration\JpaConfiguration.class
+com\zagwork\risktype\util\CustomErrorType.class
+com\zagwork\risktype\controller\AppController.class
+com\zagwork\risktype\enums\RiskType.class
+com\zagwork\risktype\repositories\ClientRepository.class
+com\zagwork\risktype\RiskTypeApp.class
+com\zagwork\risktype\model\Client.class
+com\zagwork\risktype\service\ClientServiceImpl.class
+com\zagwork\risktype\service\ClientServiceImpl$1.class
+com\zagwork\risktype\service\ClientService.class
+com\zagwork\risktype\controller\RestApiController.class

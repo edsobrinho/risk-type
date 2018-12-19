@@ -1,0 +1,10 @@
+C:\_development\workspace\risk-type\src\main\java\com\zagwork\risktype\enums\RiskType.java
+C:\_development\workspace\risk-type\src\main\java\com\zagwork\risktype\service\ClientServiceImpl.java
+C:\_development\workspace\risk-type\src\main\java\com\zagwork\risktype\configuration\JpaConfiguration.java
+C:\_development\workspace\risk-type\src\main\java\com\zagwork\risktype\RiskTypeApp.java
+C:\_development\workspace\risk-type\src\main\java\com\zagwork\risktype\model\Client.java
+C:\_development\workspace\risk-type\src\main\java\com\zagwork\risktype\service\ClientService.java
+C:\_development\workspace\risk-type\src\main\java\com\zagwork\risktype\controller\RestApiController.java
+C:\_development\workspace\risk-type\src\main\java\com\zagwork\risktype\util\CustomErrorType.java
+C:\_development\workspace\risk-type\src\main\java\com\zagwork\risktype\repositories\ClientRepository.java
+C:\_development\workspace\risk-type\src\main\java\com\zagwork\risktype\controller\AppController.java
